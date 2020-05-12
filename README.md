@@ -1,2 +1,4 @@
 # hello-word
-trial of the github project
+percobaan proyek github
+selalu berinovasi
+selalu berkreasi
